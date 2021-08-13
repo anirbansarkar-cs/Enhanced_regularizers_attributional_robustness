@@ -3,7 +3,7 @@ This project is for the paper: [Enhanced Regularizers for Attributional Robustne
 
 ## Introduction
 This project is to solve an emerging problem in trustworthy machine learning: train models that produce robust interpretations for their predictions. See the example below: 
-![alt text](https://github.com/jfc43/robust-attribution-regularization/blob/master/demo-figure.png)
+![alt text](https://github.com/tataiani/Enhanced_regularizers_attributional_robustness/blob/main/Flower/intro_hr.png)
 
 ## Preliminaries
 It is tested under Ubuntu Linux 16.04.1 and Python 3.6 environment, and requries some packages to be installed:
